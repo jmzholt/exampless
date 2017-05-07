@@ -1,2 +1,3 @@
 # exampless
-just an examples
+Hi guys!
+Im newbie here
